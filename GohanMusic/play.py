@@ -204,7 +204,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
 
         (205, 670),
 
-        f"Di Putar Di: {requested_by}",
+        f"Play On: {requested_by}",
 
         (255, 255, 255),
 
